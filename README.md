@@ -106,7 +106,7 @@ roll-dice --sides=10 --dice=2 --rolls=3
 
 And an example output:
 ```
-{"sides":10,"dice":2,"rolls":3,"results":[4,25,30]}
+{"sides":10,"dice":2,"rolls":3,"results":[4,15,20]}
 ```
 
 > HINT: Use `JSON.stringify()` to convert the output of your function to JSON. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
